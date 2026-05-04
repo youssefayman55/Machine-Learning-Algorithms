@@ -56,13 +56,6 @@ Python 🐍 | Jupyter Notebook 📓 | Scikit-learn 🤖 | Pandas 📊 | NumPy | 
 - Neural networks handle non-linear relationships  
 
 ---
-
-## ▶️ How to Run
-```bash
-git clone https://github.com/your-username/Machine-Learning-Algorithms.git
-pip install numpy pandas matplotlib seaborn scikit-learn
-jupyter notebook
-
 🚀 Future Improvements
 Add deep learning models (CNN, RNN, Transformers)
 Hyperparameter tuning (GridSearch / Optuna)
@@ -73,3 +66,10 @@ Deploy as ML learning platform
 
 Youssef Ayman
 AI Engineer & Data Scientist
+
+## ▶️ How to Run
+```bash
+git clone https://github.com/your-username/Machine-Learning-Algorithms.git
+pip install numpy pandas matplotlib seaborn scikit-learn
+jupyter notebook
+
